@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Data Science and Artificial intelligence.
+💻 AI | Machine Learning | Data Analysis.
 
 
 ## 🌐 Socials:
